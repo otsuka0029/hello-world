@@ -6,6 +6,7 @@ on:
       - '**.py'
 
 
+
 jobs:
   syntax-check:
     runs-on: ubuntu-latest
